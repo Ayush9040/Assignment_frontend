@@ -27,4 +27,4 @@ A simple e-commerce product listing page built with React and Redux.
 To deploy the app on platforms like Netlify or Vercel:
 
  **Netlify**:
-   - Go to [Netlify](https://66b644adf205a4285e4fe298--sage-entremet-125812.netlify.app/).
+   - Go to [Netlify](https://sage-entremet-125812.netlify.app/).
