@@ -20,4 +20,11 @@ A simple e-commerce product listing page built with React and Redux.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/e-commerce-app.git
+   git clone https://github.com/Ayush9040/Assignment_frontend.git
+
+### Deployment
+
+To deploy the app on platforms like Netlify or Vercel:
+
+ **Netlify**:
+   - Go to [Netlify](https://66b644adf205a4285e4fe298--sage-entremet-125812.netlify.app/).
